@@ -4,18 +4,13 @@ Zbiór moich projektów zrealizowanych podczas studiów informatycznych na Uniwe
 
 ## 📁 Zawartość repozytorium
 
-- **Analiza błędów sumowania – algorytmy numeryczne**  
+-**Analiza błędów sumowania** (Algorytmy Numeryczne) (C + Python + Latex)
 
-- **Generowanie konfiguracji szachowych**  
+-**Generowanie konfiguracji szachowych** (C + C++ + Latex + Bash)
 
-- **Projekt OOP – Pogotowie ratunkowe**  
+-**Modelowanie fali na morzu** (Algorytmy Numeryczne) (C + Python + Latex)
 
-- **Projekt falowanie**  
+-**System zarządzania zgłoszeniami ratunkowymi** (OOP) (Java)
 
-## 🛠 Technologie
+-**Aplikacja do analizy ocen i nastroju studenta**(Python)
 
-Projekty są napisane w:
-- **C** 
-- **Python**
-- **Java**
-- **Bash**
