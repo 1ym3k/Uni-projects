@@ -1,0 +1,63 @@
+{
+    "courses": [
+        {
+            "name": "Uczenie maszynowe",
+            "days": [
+                "pon",
+                "śr"
+            ],
+            "lecturer": "Kowalski",
+            "max_absences": 2,
+            "current_absences": 2,
+            "mandatory": true,
+            "grades": [
+                {
+                    "value": "5",
+                    "note": "lab1",
+                    "date": "2025-05-12"
+                }
+            ]
+        },
+        {
+            "name": "Algorytmy i struktury danych",
+            "days": [
+                "pon",
+                "czw"
+            ],
+            "lecturer": "Nowak",
+            "max_absences": 2,
+            "current_absences": 3,
+            "mandatory": false,
+            "grades": [
+                {
+                    "value": "5",
+                    "note": "laby 1",
+                    "date": "2025-05-12"
+                },
+                {
+                    "value": "5",
+                    "note": "lab 4",
+                    "date": "2025-05-12"
+                }
+            ]
+        },
+        {
+            "name": "szepiet",
+            "days": [
+                "pon"
+            ],
+            "lecturer": "szepiet stary",
+            "max_absences": 1,
+            "current_absences": 0,
+            "mandatory": false,
+            "grades": []
+        }
+    ],
+    "user_data": {
+        "name": "",
+        "profile_pic": "C:/Users/th731/Downloads/Gg-kG96bsAATocD.jpg",
+        "city": "Warszawa",
+        "style": "Sakura Pink"
+    },
+    "style": "Sakura Pink"
+}

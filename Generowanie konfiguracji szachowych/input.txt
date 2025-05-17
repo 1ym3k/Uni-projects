@@ -1,0 +1,19 @@
+18
+2 3 Qa1 Qa2 Qb1 
+1 1 Qa1 
+7 6 Qc4 Qd1 Qd5 Qe2 Qe3 Qf6 
+4 14 Qa1 Qa2 Qa3 Qa4 Qb2 Qb3 Qc1 Qc2 Qc3 Qc4 Qd1 Qd2 Qd3 Qd4 
+8 22 Qa6 Qa7 Qa8 Qb1 Qb6 Qb7 Qb8 Qc2 Qc5 Qc7 Qd1 Qd2 Qd5 Qe2 Qe4 Qe5 Qf1 Qf6 Qf7 Qg5 Qg6 Qh2 
+8 20 Qa2 Qa4 Qa5 Qa6 Qa7 Qa8 Qb1 Qb2 Qc1 Qc4 Qc5 Qc6 Qc8 Qd5 Qe1 Qe5 Qe6 Qg6 Qh4 Qh8 
+4 15 Qa1 Qa2 Qa3 Qa4 Qb1 Qb2 Qb3 Qb4 Qc1 Qc2 Qc3 Qc4 Qd2 Qd3 Qd4 
+6 10 Qa4 Qa5 Qa6 Qc6 Qd1 Qd4 Qd6 Qf1 Qf2 Qf4 
+4 11 Qa1 Qa2 Qa4 Qb1 Qb2 Qb3 Qc1 Qc3 Qc4 Qd1 Qd3 
+9 28 Qa1 Qa2 Qa4 Qa8 Qb1 Qb3 Qb4 Qb9 Qc1 Qc3 Qc5 Qc8 Qc9 Qd6 Qd7 Qe2 Qe3 Qe9 Qf3 Qf5 Qf8 Qf9 Qg2 Qg7 Qg8 Qi1 Qi4 Qi7 
+7 13 Qa6 Qb5 Qb7 Qc4 Qc6 Qd1 Qd7 Qe3 Qe4 Qf3 Qf4 Qf6 Qg1 
+4 14 Qa1 Qa2 Qa3 Qa4 Qb1 Qb2 Qb3 Qb4 Qc1 Qc2 Qd1 Qd2 Qd3 Qd4 
+2 4 Qa1 Qa2 Qb1 Qb2 
+7 8 Qa5 Qb6 Qc4 Qe2 Qf1 Qg1 Qg2 Qg6 
+8 42 Qa2 Qa3 Qa5 Qb2 Qb3 Qb4 Qb5 Qb6 Qb8 Qc3 Qc5 Qc6 Qc7 Qd1 Qd3 Qd4 Qd5 Qd6 Qd8 Qe1 Qe2 Qe3 Qe4 Qe5 Qe6 Qe7 Qf1 Qf3 Qf4 Qf6 Qf7 Qg1 Qg3 Qg4 Qg6 Qh2 Qh3 Qh4 Qh5 Qh6 Qh7 Qh8 
+7 20 Qa1 Qa6 Qb1 Qb3 Qb5 Qb6 Qc2 Qc4 Qd2 Qd3 Qd6 Qe5 Qe7 Qf1 Qf2 Qf4 Qf5 Qg1 Qg2 Qg4 
+3 5 Qa1 Qa2 Qb2 Qb3 Qc3 
+5 18 Qa1 Qa2 Qa4 Qa5 Qb1 Qb2 Qb3 Qb4 Qb5 Qc1 Qc2 Qd1 Qd2 Qd3 Qd4 Qe1 Qe4 Qe5 
