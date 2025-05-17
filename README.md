@@ -12,5 +12,3 @@ Zbiór moich projektów zrealizowanych podczas studiów informatycznych na Uniwe
 
 -**System zarządzania zgłoszeniami ratunkowymi** (OOP) (Java)
 
--**Aplikacja do analizy ocen i nastroju studenta**(Python)
-
